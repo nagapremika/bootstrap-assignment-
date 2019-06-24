@@ -24,7 +24,7 @@
              .container img {
                  height: 45rem;
                  width: 100%;
-               padding:130px;
+               padding-top:130px;
              }
              
              .dropdown .dropdown-toggle {
